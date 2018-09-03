@@ -1224,4 +1224,4 @@ def listSub():
 	people.aspx?membershipgroupid
 	userdisp.aspx?id
 	useredit.aspx?source=%2f%5flayouts%2fpeople%2easpx&id
-	wpprevw.aspx?id	"""
+	wpprevw.aspx?id"""
